@@ -4,6 +4,7 @@
 <p>    NIM   : 312010105
 <p>    KELAS : TI.20.D.1</b>
 
+<p> (Sudah Melaksanakan Demo Program UAS pada Kamis, 14 Juli Pukul 21:00 WIB)
 <p> Dari database yang pernah dibuat sebelumnya saat UTS yaitu membuat Sistem Informasi Klinik, disini saya akan menampilkan :
 <p> CRUD pada setiap data, implementasi login, implementasi trigger, implementasi fungsi, implementasi view
 
